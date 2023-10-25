@@ -1,4 +1,4 @@
-# WPacket Crafting with Scapy
+# Packet Crafting with Scapy
 <h2>University of New Haven</h2>
 # This lab is only for your reference and educational purpose only<br>
 # I am the owner of this document and lab. Copying is strictly prohibited.
