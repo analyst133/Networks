@@ -8,4 +8,4 @@
 ![WN Lab4_3](https://github.com/analyst133/Networks/assets/97921143/967ce5a0-028c-4572-b4ce-fe252c681954)
 ![WN Lab4_4](https://github.com/analyst133/Networks/assets/97921143/8f605636-c349-4552-a381-f0025362ebae)
 ![WN Lab4_5](https://github.com/analyst133/Networks/assets/97921143/cb478e35-7106-4957-b645-9f4b922aae3c)
-
+![WN Lab4_6](Picture1_1-1.jpg)
